@@ -1,0 +1,2 @@
+AplikacjaDoOdczytow.AplikacjaDoOdczytow
+javaapplication1.AplikacjaDoOdczytow
