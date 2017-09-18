@@ -13,6 +13,7 @@ import java.util.Calendar;
  */
 public class DataOdc {
     String dataO;
+    int x;
     
     Calendar cal = null;
     
